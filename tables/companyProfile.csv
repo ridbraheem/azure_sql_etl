@@ -1,0 +1,31 @@
+﻿companyid,sectorid,shortName,industry,country,website,symbol
+0,0,3M Company,Specialty Industrial Machinery,United States,http://www.3m.com,MMM
+1,0,Boeing Company (The),Aerospace & Defense,United States,http://www.boeing.com,BA
+2,0,"Caterpillar, Inc.",Farm & Heavy Construction Machinery,United States,http://www.caterpillar.com,CAT
+3,0,Honeywell International Inc.,Specialty Industrial Machinery,United States,http://www.honeywell.com,HON
+4,1,American Express Company,Credit Services,United States,http://www.americanexpress.com,AXP
+5,1,"Goldman Sachs Group, Inc. (The)",Capital Markets,United States,http://www.goldmansachs.com,GS
+6,1,JP Morgan Chase & Co.,Banks—Diversified,United States,http://www.jpmorganchase.com,JPM
+7,1,"The Travelers Companies, Inc.",Insurance—Property & Casualty,United States,http://www.travelers.com,TRV
+8,1,Visa Inc.,Credit Services,United States,http://usa.visa.com,V
+9,2,Amgen Inc.,Drug Manufacturers—General,United States,http://www.amgen.com,AMGN
+10,2,Johnson & Johnson,Drug Manufacturers—General,United States,http://www.jnj.com,JNJ
+11,2,"Merck & Company, Inc.",Drug Manufacturers—General,United States,http://www.merck.com,MRK
+12,2,UnitedHealth Group Incorporated,Healthcare Plans,United States,http://www.unitedhealthgroup.com,UNH
+13,2,"Walgreens Boots Alliance, Inc.",Pharmaceutical Retailers,United States,http://www.walgreensbootsalliance.com,WBA
+14,3,Apple Inc.,Consumer Electronics,United States,http://www.apple.com,AAPL
+15,3,"Cisco Systems, Inc.",Communication Equipment,United States,http://www.cisco.com,CSCO
+16,3,International Business Machines,Information Technology Services,United States,http://www.ibm.com,IBM
+17,3,Intel Corporation,Semiconductors,United States,http://www.intel.com,INTC
+18,3,Microsoft Corporation,Software—Infrastructure,United States,http://www.microsoft.com,MSFT
+19,3,Salesforce.com Inc,Software—Application,United States,http://www.salesforce.com,CRM
+20,4,Chevron Corporation,Oil & Gas Integrated,United States,http://www.chevron.com,CVX
+21,5,Coca-Cola Company (The),Beverages—Non-Alcoholic,United States,http://www.coca-colacompany.com,KO
+22,5,Procter & Gamble Company (The),Household & Personal Products,United States,http://www.pginvestor.com,PG
+23,5,Walmart Inc.,Discount Stores,United States,http://www.stock.walmart.com,WMT
+24,6,Dow Inc.,Chemicals,United States,http://www.dow.com,DOW
+25,7,"Home Depot, Inc. (The)",Home Improvement Retail,United States,http://www.homedepot.com,HD
+26,7,McDonald's Corporation,Restaurants,United States,http://corporate.mcdonalds.com,MCD
+27,7,"Nike, Inc.",Footwear & Accessories,United States,http://www.nike.com,NKE
+28,8,Verizon Communications Inc.,Telecom Services,United States,http://www.verizon.com,VZ
+29,8,Walt Disney Company (The),Entertainment,United States,http://www.thewaltdisneycompany.com,DIS
